@@ -19,12 +19,12 @@ In addition to these 2 services, there is a scheduled process every 20 minutes t
 3. run ./avengers.sh 
 
 ## GET collaborators by character
-http://localhost:80/marvel/collaborators/ironman
-http://localhost:80/marvel/collaborators/capamerica
+ - http://localhost:80/marvel/collaborators/ironman
+ - http://localhost:80/marvel/collaborators/capamerica
 
 ## GET characters and comics by Character
-http://localhost:80/marvel/characters/ironman
-http://localhost:80/marvel/characters/capamerica
+- http://localhost:80/marvel/characters/ironman
+- http://localhost:80/marvel/characters/capamerica
 
 ## Change URL
 1. You can change {localhost:80} to {test.spring.mx}
